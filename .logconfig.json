@@ -1,6 +1,0 @@
-{
-    "pattern": "[{time}][{func}/{type}]:{inform}",
-    "log_dir": "Logs",
-    "file_name": "{date}.log",
-    "enable_color": true
-}
