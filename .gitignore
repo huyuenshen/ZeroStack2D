@@ -1,0 +1,8 @@
+.logconfig.json
+Logs/
+__pycache__/
+build/
+dist/
+*.egg_info
+*.spec
+index.wiki
